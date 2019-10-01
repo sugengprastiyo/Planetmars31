@@ -1,0 +1,54 @@
+#Judul{
+	color: white;
+	text-align: center;
+	font-size: 50pt;
+}
+
+h2{
+	color: white;
+	font-family: Phillips Muler Signature;
+	text-align: center;
+	font-size: 20pt;
+}
+
+.link{
+	font-family: coolvetica condensed rg;
+	font-size: 15pt;
+	text-align: center;
+}
+.link:hover{
+	color: red;
+}
+.link:link{
+	color: blue;
+}
+
+.link2{
+	font-family: coolvetica condensed rg;
+	font-size: 15pt;
+	text-align: center;
+}
+.link2:hover{
+	color: red;
+}
+.link2:link{
+	color: blue;
+}
+
+
+.link3{
+	font-family: coolvetica condensed rg;
+	font-size: 15pt;
+	text-align: center;
+}
+.link3:hover{
+	color: red;
+}
+.link3:link{
+	color: blue;
+}
+body{
+	background: url('img/tree11.jpg'), url('img/field11.jpg');
+	background-repeat: no-repeat, repeat; 
+	color: white;
+}
