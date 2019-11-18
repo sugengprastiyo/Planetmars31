@@ -1,0 +1,5 @@
+Nama = Sugeng Prastiyo <br>
+Tempat/Tgl Lahir    = Blitar, 31 Januari 2000 <br>
+Alamat  = Ds Jatinom rt 02 rw 04 kec kanigoro kab Blitar <br>
+NIM     = 1841720113 <br>
+E-mail  = tiyo.sugeng@yahoo.com
