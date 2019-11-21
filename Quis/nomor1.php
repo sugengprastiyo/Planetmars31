@@ -5,7 +5,7 @@
     <title>Nomor 1</title>
 </head>
 <body>
-    <h2>Multidimensional Array</h2>
+    <center><h2>Multidimensional Array</h2></center>
     <table>
         <tr>
             <th>Nama</th>
@@ -13,6 +13,7 @@
             <th>Tgl_Lahir</th>
             <th>Jumlah_Anak</th>
             <th>Gaji</th>
+            
         </tr>
         <?php
             $ident = array(
